@@ -1,2 +1,2 @@
-# PortingKlessydra
+# PULPino platform porting with Klessydra core
 PULPino platform port (in SystemVerilog, based on RISC-V instruction set) with Klessydra X0-v14 core (in VHDL, developed in university context) for operation on Xilinx Zedboard. Development of a C program and Bash scripts to simplify debugging (performed thanks to tests provided by PULPino developers) during compilation (on Questasim) and on AVNET ZedBoard (in Linux environment. This is a student project for "Architetture di Sistemi Integrati" course. 
